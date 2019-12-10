@@ -1,5 +1,5 @@
-dist: trusty
 language: csharp
+dist: trusty
 
 addons:
   sonarcloud:
